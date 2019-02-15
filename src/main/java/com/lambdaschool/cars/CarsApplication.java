@@ -57,8 +57,5 @@ public class CarsApplication
 	{
 		return new Jackson2JsonMessageConverter();
 	}
-
-
-
 }
 
